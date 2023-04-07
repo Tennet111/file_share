@@ -1,4 +1,3 @@
-shutil
 qrcode
 zipfile
 datetime
