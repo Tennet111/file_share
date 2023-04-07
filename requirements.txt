@@ -1,5 +1,4 @@
 qrcode
-zipfile
 datetime
 os
 flask
