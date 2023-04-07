@@ -1,0 +1,8 @@
+shutil
+qrcode
+zipfile
+datetime
+os
+flask
+qrcode
+gunicorn
