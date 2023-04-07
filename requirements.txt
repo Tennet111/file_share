@@ -1,6 +1,4 @@
 qrcode
-datetime
-os
 flask
 qrcode
 gunicorn
